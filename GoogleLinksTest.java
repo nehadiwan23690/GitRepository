@@ -1,5 +1,5 @@
 package scripts;
-
+//Adding comments in this file.
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeMethod;
 
